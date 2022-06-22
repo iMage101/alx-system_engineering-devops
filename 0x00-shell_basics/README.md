@@ -1,1 +1,1 @@
-This script list all files including hidden files in long format
+This script lists all files including hidden files with their id numerically

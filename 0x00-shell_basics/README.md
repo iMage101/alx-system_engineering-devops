@@ -1,1 +1,1 @@
-Script deletes the directory
+script to move back to previous directory

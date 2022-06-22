@@ -1,1 +1,1 @@
-This script describes commands to navigate shell
+This script lists all file in present working directory

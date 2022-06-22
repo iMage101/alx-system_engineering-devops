@@ -1,1 +1,1 @@
-Deleted betty
+Script deletes the directory

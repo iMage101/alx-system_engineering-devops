@@ -1,1 +1,1 @@
-This script lists all file and directories in current directory separated my commas
+Script to create magic file school.mgc

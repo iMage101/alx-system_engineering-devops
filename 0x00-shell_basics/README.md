@@ -1,1 +1,1 @@
-Script moves betty
+Deleted betty

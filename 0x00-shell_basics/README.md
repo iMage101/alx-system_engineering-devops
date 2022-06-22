@@ -1,1 +1,1 @@
-script to create my first directory
+Script moves betty

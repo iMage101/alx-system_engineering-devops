@@ -1,1 +1,1 @@
-This script prints iamafile
+Script creates symbolic link

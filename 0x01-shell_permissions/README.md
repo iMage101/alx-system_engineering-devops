@@ -1,1 +1,3 @@
-Script sets the permission to the file hello as follows, owner and group no permission, others all permission
+This script sets the mode of the file hello to this:
+
+-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello

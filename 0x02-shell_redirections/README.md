@@ -18,3 +18,4 @@ Display all lines of the file /etc/ssh/sshd_config starting with a letter
 Replace all characters A and c from input to Z and e respectively
 Removes all letters c and C from inputs
 Reverse all inputs
+Adding 22 users and homes

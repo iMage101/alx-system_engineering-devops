@@ -9,3 +9,4 @@ Script creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:)
 Script writes into the file ls_cwd_content the result of the command ls -la
 Script duplicates the last line of the file iacta
 Deletes all file with .js extension present in directory
+counts the number of directories and sub-directories in the current directory

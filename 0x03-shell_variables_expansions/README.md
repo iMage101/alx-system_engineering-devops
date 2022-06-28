@@ -9,3 +9,4 @@ Added 7-create_global_variable file
 Added 8-true_knowledge file
 Added 9-divide_and_rule file
 Added 10-love_exponent_breath file
+Added 11-binary_to_decimal file

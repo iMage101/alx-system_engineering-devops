@@ -11,3 +11,4 @@ Script duplicates the last line of the file iacta
 Deletes all file with .js extension present in directory
 counts the number of directories and sub-directories in the current directory
 displays the 10 newest files in the current directory
+Takes takes a list of words as input and prints only words that appear exactly once

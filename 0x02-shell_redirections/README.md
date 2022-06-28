@@ -21,3 +21,4 @@ Reverse all inputs
 Adding 22 users and homes
 Script finds all empty files and directories in the current directory and all sub-directories
 List all files with a .gif
+Adding 102-acrostic file

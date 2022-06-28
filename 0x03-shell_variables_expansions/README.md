@@ -7,3 +7,4 @@ Added 5-local_variables file
 Added 6-create_local_variable file
 Added 7-create_global_variable file
 Added 8-true_knowledge file
+Added 9-divide_and_rule file

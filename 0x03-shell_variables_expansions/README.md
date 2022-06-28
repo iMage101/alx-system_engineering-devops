@@ -12,3 +12,4 @@ Added 10-love_exponent_breath file
 Added 11-binary_to_decimal file
 Added 12-combinations file
 Added 13-print_float file
+Added 100-decimal_to_hexadecimal file
